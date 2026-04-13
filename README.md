@@ -34,7 +34,7 @@ I'll be actively update and and upload my projects link
 
 - 📖 Learning SQL window functions
 - 🔨 Building my first end-to-end dashboard
-- 🎯 Looking for a DA internship (Summer 2025)
+- 🎯 Looking for a DA internship (Summer 2026)
 
 ---
 
